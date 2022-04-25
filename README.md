@@ -10,6 +10,7 @@ Hello, I'm a Master's student at Oxford, next year I'm joining the
   * 📙 Learning Dutch
 
 - 💬 Ask me about Julia for numerical computing
+- 📜 A few of my repositories are currently private for anonymous marking reasons, I hope to make them public in June to be able to showcase some of my up to date code!
 
 <!-- - 📫 How to reach me **miguelraz@gmail.com** -->
 
