@@ -7,6 +7,7 @@ Hello, I'm a Master's student at Oxford, next year I'm joining the
 * 💻 I'm currently working on
   * 🚶🏿‍♂️ Bayesian calibration of pedestrian models (my dissertation) 
   * 🔺 Efficient Voronoi diagrams on the CPU
+  * 📈 Combinatorial Time Series Optimisation (CoTSOpt)
   * 📙 Learning Dutch
 
 - 💬 Ask me about Julia for numerical computing
