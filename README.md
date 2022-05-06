@@ -10,11 +10,5 @@ Hello, I'm a Master's student at Oxford, next year I'm joining the
   * 📈 Combinatorial Time Series Optimisation (CoTSOpt)
   * 📙 Learning Dutch
 
-- 💬 Ask me about Julia for numerical computing
+- 💬 Ask me about Julia for numerical computing or join the community [here](https://discourse.julialang.org/invites/BC6thrmqZQ) where I and many others answer all sorts of questions. Beginners definitely welcome.
 - 📜 A few of my repositories are currently private for anonymous marking reasons, I hope to make them public in June to be able to showcase some of my up to date code!
-
-<!-- - 📫 How to reach me **miguelraz@gmail.com** -->
-
-<!-- - ⚡ Fun fact **I am not terrible at handstands, amateur hummus sommelier** -->
-
-<!-- - 🎥 You can watch some of my not-at-all-edited [video tutorials](https://www.youtube.com/channel/UC840v4b_71e78fmPHiCPQVg/videos) or my livecoding fails on my [twitch.tv livestream channel](twitch.tv/BrainRPG) -->
