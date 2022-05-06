@@ -10,5 +10,5 @@ Hello, I'm a Master's student at Oxford, next year I'm joining the
   * 📈 Combinatorial Time Series Optimisation (CoTSOpt)
   * 📙 Learning Dutch
 
-- 💬 Ask me about Julia for numerical computing or join the community [here](https://discourse.julialang.org/invites/BC6thrmqZQ) where I and many others answer all sorts of questions. Beginners definitely welcome.
+- 💬 Ask me about Julia for numerical computing or join the community [here](https://discourse.julialang.org/invites/BC6thrmqZQ) where I, and many others, spend time supporting other Julia members. Much friendlier than StackOverflow :')
 - 📜 A few of my repositories are currently private for anonymous marking reasons, I hope to make them public in June to be able to showcase some of my up to date code!
