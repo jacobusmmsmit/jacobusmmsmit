@@ -5,10 +5,9 @@ Hello, I'm a Master's student at Oxford, next year I'm joining the
 
 
 * 💻 I'm currently working on
-  * 🚶🏿‍♂️ Bayesian calibration of pedestrian models (my dissertation) 
-  * 🔺 Efficient Voronoi diagrams on the CPU
-  * 📈 Combinatorial Time Series Optimisation (CoTSOpt)
+  * 🚶🏿‍♂️ Calibration of pedestrian models
+  * 🥗 Generalising the MLP-Mixer architecture
   * 📙 Learning Dutch
 
 - 💬 Ask me about Julia for numerical computing or join the community [here](https://discourse.julialang.org/invites/BC6thrmqZQ) where I, and many others, spend time supporting other Julia users. Much friendlier than StackOverflow :')
-- 📜 A few of my repositories are currently private for anonymous marking reasons, I hope to make them public in June to be able to showcase some of my up to date code!
+- 📜 A few of my research repositories are currently private, I hope to make them public as the research develops!
