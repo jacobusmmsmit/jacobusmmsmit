@@ -7,6 +7,7 @@ Hello, I'm a Master's student at Oxford, next year I'm joining the
 * 💻 I'm currently working on
   * 🚶🏿‍♂️ Calibration of pedestrian models
   * 🥗 Generalising the MLP-Mixer architecture
+  * 🎨 Accelerating Voronoi diagram calculation
   * 📙 Learning Dutch
 
 - 💬 Ask me about Julia for numerical computing or join the community [here](https://discourse.julialang.org/invites/BC6thrmqZQ) where I, and many others, spend time supporting other Julia users. Much friendlier than StackOverflow :')
