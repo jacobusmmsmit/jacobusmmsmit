@@ -5,6 +5,7 @@ Hello, I'm a PhD student at the
 
 
 * 💻 I'm currently working on
+  * 🤝 The dynamics of cooperation through indirect reciprocity 
   * 🚶🏿‍♂️ Calibration of pedestrian models
   * 🥗 Generalising the MLP-Mixer architecture
   * 🎨 Accelerating Voronoi diagram calculation
