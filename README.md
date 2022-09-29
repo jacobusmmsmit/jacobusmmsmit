@@ -12,5 +12,4 @@ Hello, I'm a PhD student at the
   * 📙 Learning Dutch
 
 - 💬 Ask me about Julia for numerical computing or join the community [here](https://discourse.julialang.org/invites/BC6thrmqZQ) where I, and many others, spend time supporting other Julia users. Much friendlier than StackOverflow :')
-- 📜 A few of my research repositories are currently private, I hope to make them public as the research develops!
-- 📝 I recently wrote a <a href="https://jacobussmit.com/blogposts/jax-julia-comparison.html">blog post</a> comparing JAX and Julia for numerical/scientific computing.
+- 📝 I also have a blog. I recently wrote a post <a href="https://jacobussmit.com/blogposts/jax-julia-comparison.html">comparing JAX and Julia for numerical/scientific computing</a> and another on <a href="https://forem.julialang.org/jacobusmmsmit/writing-optimised-julia-with-wisdom-from-c-pfj-temp-slug-4569728?preview=84e54102777f4dca084c329f096d93bbaca017a842a47aa3530d5f201f8da66962b67358c7d64cc25d240385c6423c24e171626dc0ea87b2bc0a31b7">applying C++ optimisations to Julia</a> (and how it's not always the right thing to do!). 
