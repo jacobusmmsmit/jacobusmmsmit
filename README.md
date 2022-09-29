@@ -13,3 +13,4 @@ Hello, I'm a PhD student at the
 
 - 💬 Ask me about Julia for numerical computing or join the community [here](https://discourse.julialang.org/invites/BC6thrmqZQ) where I, and many others, spend time supporting other Julia users. Much friendlier than StackOverflow :')
 - 📜 A few of my research repositories are currently private, I hope to make them public as the research develops!
+- 📝 I recently wrote a <a href="https://jacobussmit.com/blogposts/jax-julia-comparison.html">blog post</a> comparing JAX and Julia for numerical/scientific computing.
