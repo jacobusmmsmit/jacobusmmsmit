@@ -5,10 +5,10 @@ Hello, I'm a PhD student at the
 
 
 * 💻 I'm currently working on
-  * 🤝 The dynamics of cooperation through indirect reciprocity 
-  * 🚶🏿‍♂️ Calibration of pedestrian models
-  * 🥗 Generalising the MLP-Mixer architecture
-  * 🎨 Accelerating Voronoi diagram calculation
+  * 🤝 The dynamics of cooperation through indirect reciprocity (see [SocialAgents.jl](https://www.github.com/jacobusmmsmit/SocialAgents.jl))
+  * 🚶🏿‍♂️ Calibration of pedestrian models (see [social-force-jax](https://github.com/jacobusmmsmit/social-force-jax) and [DynamicalInference.jl](https://github.com/jacobusmmsmit/Dynamical-Inference/tree/wall-force))
+  * 🥗 Generalising the MLP-Mixer architecture (see [multimixer](https://github.com/jacobusmmsmit/multimixer))
+  * 🎨 Accelerating Voronoi diagram calculation (see [DiscreteVoronoi.jl](https://github.com/jacobusmmsmit/DiscreteVoronoi.jl))
   * 📙 Learning Dutch
 
 - 💬 Ask me about Julia for numerical computing or join the community [here](https://discourse.julialang.org/invites/BC6thrmqZQ) where I, and many others, spend time supporting other Julia users. Much friendlier than StackOverflow :')
