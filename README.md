@@ -5,8 +5,8 @@ Hello, I'm a PhD student at the
 
 
 * 💻 I'm currently working on
-  * 🤝 The dynamics of cooperation through indirect reciprocity (see [SocialAgents.jl](https://www.github.com/jacobusmmsmit/SocialAgents.jl))
-  * 🚶🏿‍♂️ Calibration of pedestrian models (see [social-force-jax](https://github.com/jacobusmmsmit/social-force-jax) and [DynamicalInference.jl](https://github.com/jacobusmmsmit/Dynamical-Inference/tree/wall-force))
+  * 🤝 The dynamics of cooperation through indirect reciprocity (Public soon...)
+  * 🚶🏿‍♂️ Calibration of pedestrian models (see [social-force-jax](https://github.com/jacobusmmsmit/social-force-jax)
   * 🥗 Generalising the MLP-Mixer architecture (see [multimixer](https://github.com/jacobusmmsmit/multimixer))
   * 🎨 Accelerating Voronoi diagram calculation (see [DiscreteVoronoi.jl](https://github.com/jacobusmmsmit/DiscreteVoronoi.jl))
   * 📙 Learning Dutch
