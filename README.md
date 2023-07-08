@@ -6,9 +6,7 @@ Hello, I'm a PhD student at the
 
 * 💻 I'm currently working on
   * 🤝 The dynamics of cooperation through [indirect reciprocity](https://github.com/sias-uva/indirect-reciprocity), if you're working on something similar, try my implementation or get in contact with me to see if we can adapt it to your problem,
-  * 🚶🏿‍♂️ Calibration of pedestrian models (see [social-force-jax](https://github.com/jacobusmmsmit/social-force-jax)),
-  * 🥗 Generalising the MLP-Mixer architecture (see [multimixer](https://github.com/jacobusmmsmit/multimixer)),
-  * 🎨 Accelerating Voronoi diagram calculation (see [DiscreteVoronoi.jl](https://github.com/jacobusmmsmit/DiscreteVoronoi.jl)),
+  * 📖 A series of blogs on how to effectively use the Julia language called [Modern Julia Workflows](https://github.com/gdalle/ModernJuliaWorkflows),
   * 📙 Learning Dutch.
 
 - 💬 Ask me about Julia for numerical computing or join the community [here](https://discourse.julialang.org/invites/BC6thrmqZQ) where I, and many others, spend time supporting other Julia users. Much friendlier than StackOverflow :')
