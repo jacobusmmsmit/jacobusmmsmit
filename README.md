@@ -9,5 +9,5 @@ Hello, I'm a PhD student at the
   * 📖 A series of blogs on how to effectively use the Julia language called [Modern Julia Workflows](https://github.com/gdalle/ModernJuliaWorkflows),
   * 📙 Learning Dutch.
 
-- 💬 Ask me about Julia for numerical computing or join the community [here](https://discourse.julialang.org/invites/BC6thrmqZQ) where I, and many others, spend time supporting other Julia users. Much friendlier than StackOverflow :')
+- 💬 Ask me about Julia for numerical computing or join the community [here](https://discourse.julialang.org/invites/hnaCB2PTH9) where I, and many others, spend time supporting other Julia users. Much friendlier than StackOverflow :')
 - 📝 I also have a blog. I recently wrote a post <a href="https://jacobussmit.com/blogposts/jax-julia-comparison.html">comparing JAX and Julia for numerical/scientific computing</a> and another on <a href="https://forem.julialang.org/jacobusmmsmit/writing-optimised-julia-with-wisdom-from-c-pfj-temp-slug-4569728?preview=84e54102777f4dca084c329f096d93bbaca017a842a47aa3530d5f201f8da66962b67358c7d64cc25d240385c6423c24e171626dc0ea87b2bc0a31b7">applying C++ optimisations to Julia</a> (and how it's not always the right thing to do!). 
