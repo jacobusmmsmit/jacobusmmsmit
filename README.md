@@ -1,4 +1,4 @@
-<h1 align="left">J. Martin M. Smit</h1>
+<h1 align="left">Martin Smit</h1>
 <h3 align="center"></h3>
 Hello, I'm a PhD student at the
 <a href="https://ivi.uva.nl/research/socially-intelligent-artificial-systems-group.html">Socially Intelligent Artificial Systems</a> group at the University of Amsterdam.
